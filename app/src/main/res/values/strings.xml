@@ -2,4 +2,5 @@
     <string name="app_name">PlacarApp</string>
     <string name="Label_titulo">Times</string>
     <string name="Label_desenvolvido_por_carlos_pantoja">Desenvolvido por Carlos Pantoja</string>
+    <string name="placar_inicial">0</string>
 </resources>

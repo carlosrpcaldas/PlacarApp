@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
-    <string name="Label_titulo">Times</string>
-    <string name="Label_desenvolvido_por_carlos_pantoja">Desenvolvido por Carlos Pantoja</string>
-    <string name="placar_inicial">0</string>
+    <string name="app_name" translatable="false">PlacarApp</string>
+    <string name="Label_titulo">Teams</string>
+    <string name="Label_desenvolvido_por_carlos_pantoja">Developed by Carlos Pantoja</string>
+    <string name="placar_inicial" translatable="false">0</string>
+    <string name="lable_gol">Goal</string>
+    <string name="label_gol">Goal</string>
 </resources>
